@@ -5,7 +5,7 @@ from src.users.user_model import User
 
 logger = logging.getLogger(__name__)
 
-# DEV-7
+
 
 class UserService:
     """
