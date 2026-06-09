@@ -7,6 +7,7 @@ from src.users.user_model import User
 class AuthenticationError(Exception):
     pass
 
+# DEV-6
 
 class AuthModule:
     """
